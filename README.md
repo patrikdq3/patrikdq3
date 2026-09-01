@@ -10,10 +10,9 @@
 [![patrikdq3's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patrikdq3&show_icons=true&hide_border=true&bg_color=0E1116&title_color=ff6ec7&text_color=ffd4a3&border_color=ff6ec7&count_private=true&card_width=500&layout=compact#gh-dark-mode-only)](https://github.com/patrikdq3#gh-dark-mode-only)
 [![patrikdq3's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patrikdq3&show_icons=true&hide_border=true&bg_color=f7f5f2&title_color=268bd2&text_color=586e75&border_color=268bd2&count_private=true&card_width=500&layout=compact#gh-light-mode-only)](https://github.com/patrikdq3#gh-light-mode-only)
 
-<!-- Activity Graph
+<!-- Activity Graph -->
 [![patrikdq3's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=patrikdq3&bg_color=0E1116&color=ffd4a3&line=ec4899&point=ffffff&area_color=ff6ec7&area=true&hide_border=true#gh-dark-mode-only)](https://github.com/patrikdq3#gh-dark-mode-only)
 [![patrikdq3's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=patrikdq3&bg_color=f7f5f2&color=586e75&line=cb4b16&point=073642&area_color=268bd2&area=true&hide_border=true#gh-light-mode-only)](https://github.com/patrikdq3#gh-light-mode-only)
--->
 
 <!-- Quote -->
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&backgroundColor=0E1116&quoteColor=ffd4a3&authorColor=ff6ec7&symbolColor=ec4899#gh-dark-mode-only)](https://github.com/piyushsuthar/github-readme-quotes#gh-dark-mode-only)
